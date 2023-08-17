@@ -7,6 +7,7 @@ body {
     justify-content: center;
     margin-top: 100px;  
     font-size: 40px;
+    margin-bottom: auto;
 }
 
 nav {
