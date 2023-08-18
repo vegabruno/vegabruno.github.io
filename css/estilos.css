@@ -60,3 +60,12 @@ nav {
     background-color: #f1f1f1;
   }
 
+  .container-imagenes {
+    display: flex;
+    justify-content: center;
+  }
+  .imagenes {
+    width: 500px;
+    height: 300px;
+  }
+
